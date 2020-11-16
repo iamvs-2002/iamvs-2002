@@ -15,7 +15,7 @@
 I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/). 
 
 Technologies: 
-- Java, OOPS, C, Android Studio, Pencil Sketching, Cyber Security
+- Java, OOPS, C, Android Studio, Cyber Security
 
 ⚡ Fun fact: I can sketch your face in no time!
 
