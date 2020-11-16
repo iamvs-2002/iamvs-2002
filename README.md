@@ -1,4 +1,4 @@
-## Bonjour 🤠
+# Bonjour 🤠
 
 <a href="https://www.linkedin.com/in/vaibhav-singhal-35967918b/">
   <img align="left" alt="Akshay Saini - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
@@ -14,9 +14,9 @@
 
 I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/). 
 
-- 🔭 I’m currently working on [Crufee](https://play.google.com/store/apps/details?id=com.vabrodex.date&hl=en_US&gl=US).
-- 🌱 I’m currently learning Pentesting.
-- 💬 Ask me about: Java, OOPS, Android App Development, Pencil Sketching, Cyber Security.
-- ⚡ Fun fact: I can sketch your face in no time!
+Technologies: 
+- Java, OOPS, C, Android Studio, Pencil Sketching, Cyber Security
+
+⚡ Fun fact: I can sketch your face in no time!
 
 <img src="https://github-readme-stats.vercel.app/api?username=iamvs-2002&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
