@@ -9,6 +9,10 @@
 <a href="https://www.facebook.com/vaibhav.singhal.5437923/">
   <img align="left" alt="Vaibhav Singhal - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
+<a href="https://twitter.com/iamvs2002">
+  <img align="left" alt="Vaibhav Singhal - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/twitter.svg"/>
+</a>
+
 <br />
 <br />
 
