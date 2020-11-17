@@ -1,12 +1,12 @@
 # Bonjour 🤠
 
-<a href="https://www.linkedin.com/in/vaibhav-singhal-35967918b/">
+<a href="https://www.linkedin.com/in/iamvs2002/">
   <img align="left" alt="Akshay Saini - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="https://instagram.com/iamvs2002">
   <img align="left" alt="Vaibhav Singhal - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
-<a href="https://www.facebook.com/vaibhav.singhal.5437923/">
+<a href="https://www.facebook.com/iamvs2002/">
   <img align="left" alt="Vaibhav Singhal - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 <a href="https://twitter.com/iamvs2002">
