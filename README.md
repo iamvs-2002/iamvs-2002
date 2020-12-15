@@ -13,10 +13,13 @@
   <img align="left" alt="Vaibhav Singhal - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/twitter.svg"/>
 </a>
 
+
 <br />
 <br />
 
 I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/). 
+**You can find me everywhere: @iamvs2002**
+
 
 Technologies: 
 - Java, OOPS, C, Android Studio, Data Structures, MySql
