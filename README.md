@@ -30,4 +30,4 @@ I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/).
 
 <img src="https://github-readme-stats.vercel.app/api?username=iamvs-2002&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvs-2002&show_icons=true&locale=en&layout=compact" alt="iamvs-2002" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvs-2002&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&locale=en&layout=compact" alt="iamvs-2002" /></p>
