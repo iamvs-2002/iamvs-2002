@@ -29,7 +29,7 @@ I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/).
 - Java, OOPS, C, Android Studio, Data Structures, MySql, Swing
 
 ⚡ Fun fact: I can sketch your face in no time!
-
+<!--
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
@@ -37,7 +37,7 @@ I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/).
     <img src="https://github-profile-trophy.vercel.app/?username=iamvs-2002&theme=dracula"/>
   </a>
 </p>
-</details>
+</details>-->
 
 <details>
 	 <summary>Github Stats 📈:</summary>
