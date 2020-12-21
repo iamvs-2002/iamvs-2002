@@ -1,5 +1,7 @@
 # Namaste/ Hi/ Hello 🤠
 
+![](https://komarev.com/ghpvc/?username=iamvs-2002&color=green)
+
 <a href="https://www.linkedin.com/in/iamvs2002/">
   <img align="left" alt="Vaibhav Singhal - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -16,13 +18,10 @@
 
 <br />
 <br />
-
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
-
+<!---
 <br />
-
 Profile Views: [![HitCount](http://hits.dwyl.com/iamvs-2002/iamvs-2002.svg)](http://hits.dwyl.com/iamvs-2002/iamvs-2002)
-<br />
+<br /> -->
 
 I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/). 
 
