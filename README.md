@@ -30,7 +30,7 @@ I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/).
 
 ⚡ Fun fact: I can sketch your face in no time!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamvs-2002&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamvs-2002&theme=synthwave)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
