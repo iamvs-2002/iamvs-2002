@@ -31,6 +31,6 @@ I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/).
 ⚡ Fun fact: I can sketch your face in no time!
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=iamvs-2002&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvs-2002&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=iamvs-2002&count_private=true&theme=dracula&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvs-2002&langs_count=5&theme=dracula)]()
 
