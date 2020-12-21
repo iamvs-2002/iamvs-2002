@@ -28,6 +28,7 @@ I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/) havi
 - Java, OOPS, C, Android Studio, Data Structures, MySql, Swing
 
 ⚡ Fun fact: I can sketch your face in no time!
+
 🔆 Favourite Quote: Dreams are not what you see when you sleep, dreams are something which don't let you sleep.
 <!--
 <details align="center">
