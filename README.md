@@ -30,10 +30,21 @@ I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/).
 
 ⚡ Fun fact: I can sketch your face in no time!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamvs-2002&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=iamvs-2002&theme=dracula"/>
+  </a>
+</p>
+</details>
 
+<details>
+	 <summary>Github Stats 📈:</summary>
+<div align="center">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=iamvs-2002&count_private=true&theme=synthwave&showicons=true" width="350" height="250" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvs-2002&langs_count=5&theme=synthwave" width="350" height="250" ></a>
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=iamvs-2002&count_private=true&theme=synthwave&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvs-2002&langs_count=5&theme=synthwave)]()
+</div>
+</details>
 
