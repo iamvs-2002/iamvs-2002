@@ -6,7 +6,7 @@
   <img align="left" alt="Vaibhav Singhal - LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 <a href="https://instagram.com/iamvs2002">
-  <img align="left" alt="Vaibhav Singhal - Instagram" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
+  <img align="left" alt="Vaibhav Singhal - Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 </a>
 <a href="https://www.facebook.com/iamvs2002/">
   <img align="left" alt="Vaibhav Singhal - Facebook" width="22px" src="https://img.icons8.com/color/64/000000/facebook-new.png"/>
@@ -18,10 +18,6 @@
 
 <br />
 <br />
-<!---
-<br />
-Profile Views: [![HitCount](http://hits.dwyl.com/iamvs-2002/iamvs-2002.svg)](http://hits.dwyl.com/iamvs-2002/iamvs-2002)
-<br /> -->
 
 I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/). 
 
