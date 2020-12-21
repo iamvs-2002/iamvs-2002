@@ -19,8 +19,7 @@
 <br />
 <br />
 
-I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/) having interests in Android App Development, Problem Solving and Cyber Security.
-
+I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/) trying to control my own destiny via Open Source.
 
 **You can find me everywhere: @iamvs2002**
 
