@@ -24,8 +24,7 @@ I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/) havi
 
 **You can find me everywhere: @iamvs2002**
 
-#### Technologies: 
-- Java, OOPS, C, Android Studio, Data Structures, MySql, Swing
+💻 Technologies: Java, OOPS, Android Studio, Data Structures, C, MySql, Swing
 
 ⚡ Fun fact: I can sketch your face in no time!
 
