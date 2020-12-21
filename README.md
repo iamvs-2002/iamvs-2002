@@ -1,4 +1,4 @@
-# Namaste/ Hi/ Hello 🤠
+# Namaste/ Hi/ Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![](https://komarev.com/ghpvc/?username=iamvs-2002&color=green)
 
