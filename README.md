@@ -40,9 +40,8 @@ I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/) tryi
 
 
 <div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=iamvs-2002&count_private=true&theme=synthwave&showicons=true" width="350" height="250" ></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvs-2002&langs_count=5&theme=synthwave" width="350" height="250" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=iamvs-2002&count_private=true&theme=synthwave&showicons=true" width="350" height="250" align="left"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvs-2002&theme=synthwave&theme=synthwave&showicons=true" width="350" height="250" align="left"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvs-2002&langs_count=5&theme=synthwave" width="350" height="250" align="justify"></a>
 
 </div>
-
-
