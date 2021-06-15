@@ -16,6 +16,7 @@
 </a>
 
 
+
 <br />
 <br />
 
@@ -38,10 +39,43 @@ I am a 2nd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/) tryi
 </p>
 </details>-->
 
+<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.android.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a>
+</p>
 
-<div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=iamvs-2002&count_private=true&theme=synthwave&showicons=true" width="350" height="250" align="left"></a>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvs-2002&theme=synthwave&theme=synthwave&showicons=true" width="350" height="250" align="left"></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvs-2002&langs_count=5&theme=synthwave" width="350" height="250" align="left"></a>
 
-</div>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/?username=iamvs-2002&count_private=true&theme=synthwave&showicons=true" width="350" height="250" align="left">
+</a>
+<a href="#">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvs-2002&theme=synthwave&showicons=true" width="350" height="250" align="left">
+</a>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvs-2002&theme=synthwave&show_icons=true&locale=en" alt="iamvs-2002" />
+</p>
+
