@@ -24,7 +24,7 @@ I am a 3rd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/).
 
 **You can find me everywhere: @iamvs2002**
 
-💻 **Skills**: Java, OOPs, Android Studio, Data Structures, MySql, GitHub
+💻 **Skills**: Java, OOPs, Android Studio, Data Structures, MySQL, GitHub
 
 ⚡ Fun fact: I can sketch your face in no time!
 
