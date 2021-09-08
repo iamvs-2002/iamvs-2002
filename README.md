@@ -70,12 +70,12 @@ I am a 3rd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/).
 
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/?username=iamvs-2002&count_private=true&theme=synthwave&showicons=true" width="350" height="250" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/?username=iamvs-2002&count_private=true&showicons=true&theme=jolly" width="350" height="250" align="left">
 </a>
 <a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvs-2002&theme=synthwave&showicons=true" width="350" height="250" align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvs-2002&showicons=true&theme=jolly" width="350" height="250" align="left">
 </a>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvs-2002&theme=synthwave&show_icons=true&locale=en" alt="iamvs-2002" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvs-2002&show_icons=true&theme=jolly&locale=en" alt="iamvs-2002" />
 </p>
 
