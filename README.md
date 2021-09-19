@@ -20,11 +20,11 @@
 <br />
 <br />
 
-I am a 3rd year CSE undergrad at [LNMIIT Jaipur](https://www.lnmiit.ac.in/).
+I am a 3rd year CSE undergraduate student at [LNMIIT Jaipur](https://www.lnmiit.ac.in/).
 
 **You can find me everywhere: @iamvs2002**
 
-💻 **Skills**: Java, OOPs, Android Studio, Data Structures, MySQL, GitHub
+💻 **Skills**: Java, OOPs, Android Studio, Linux, Data Structures, MySQL, Firebase, GitHub
 
 ⚡ Fun fact: I can sketch your face in no time!
 
