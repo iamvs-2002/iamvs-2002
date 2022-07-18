@@ -82,7 +82,7 @@
        <a href="http://www.github.com/iamvs-2002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvs-2002&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
     <td>
-      <a href="https://github.com/iamvs-2002"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvs-2002&langs_count=4&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+      <a href="https://github.com/iamvs-2002"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvs-2002&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   </tr>
 </table>
