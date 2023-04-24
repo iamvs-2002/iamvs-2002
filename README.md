@@ -7,19 +7,16 @@
   <tr>
     <td valign="center">
       <p>
-        I am a 4th-year (2023 grad) CSE undergrad student at LNMIIT, Jaipur. <br/>
-        I am passionate about technology and love to keep updated with the latest technology trends. 
-        I love crafting beautiful apps for Android mobile devices. I have an interest in problem-solving and cyber security. 
+        I'm a computer science engineering undergraduate with a passion for software development, cyber security, and astronomy. <br/>
+        With a focus on staying up-to-date with industry trends and best practices, I approach challenges with enthusiasm and creativity. 
+        From building software applications to exploring the mysteries of space, 
+        I'm dedicated to delivering high-quality solutions that meet the needs of clients and end-users.<br/>
         I am also an open-source enthusiast. Besides that, I love sketching and teaching. <br/><br/>
         You can find me everywhere: @iamvs2002 <br/>
       </p>
     </td>
   </tr>
 </table>
-
-
-
-
 
 ## Languages, Frameworks and Tools I use:
   <table>
@@ -28,7 +25,7 @@
         <a href="https://www.java.com" target="_blank"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
         </a> 
-      </td>
+      </td> 
       <td>
         <a href="https://kotlinlang.org/" target="_blank"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> 
@@ -40,15 +37,20 @@
         </a> 
       </td>
       <td>
-        <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
-      </td>
-      <td>
-        <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
+        <a href="https://rubyonrails.org/" target="_blank"> 
+          <img src="https://rubyonrails.org/assets/images/logo.svg" alt="Ruby on Rails" width="40" height="40" style="filter: hue-rotate(0deg) saturate(200%);"/> 
+        </a>
       </td>
       <td>
         <a href="https://developer.android.com" target="_blank"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
         </a> 
+      </td>
+      <td>
+        <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+      </td>
+      <td>
+        <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
       </td>
       <td>
         <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
