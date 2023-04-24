@@ -38,7 +38,7 @@
       </td>
       <td>
         <a href="https://rubyonrails.org/" target="_blank"> 
-          <img src="https://rubyonrails.org/assets/images/logo.svg" alt="Ruby on Rails" width="40" height="40" style="filter: hue-rotate(0deg) saturate(200%);"/> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/180px-Ruby_On_Rails_Logo.svg.png" alt="Ruby on Rails" width="40" height="40" style="filter: hue-rotate(0deg) saturate(200%);"/> 
         </a>
       </td>
       <td>
