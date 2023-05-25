@@ -7,7 +7,7 @@
   <tr>
     <td valign="center">
       <p>
-        I'm a computer science engineering undergraduate with a passion for software development, cyber security, and astronomy. <br/>
+        I'm a Computer Science graduate (2023 passout) with a passion for software development, cyber security, and astronomy. <br/>
         With a focus on staying up-to-date with industry trends and best practices, I approach challenges with enthusiasm and creativity. 
         From building software applications to exploring the mysteries of space, 
         I'm dedicated to delivering high-quality solutions that meet the needs of clients and end-users.<br/>
