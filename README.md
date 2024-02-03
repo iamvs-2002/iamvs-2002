@@ -7,8 +7,8 @@
   <tr>
     <td valign="center">
       <p>
-        I'm a Computer Science graduate (2023 passout) with a passion for software development, cyber security, and astronomy. <br/>
-        With a focus on staying up-to-date with industry trends and best practices, I approach challenges with enthusiasm and creativity. 
+       I'm a software engineer (2023 CS grad) with a burning passion for software development💻, cybersecurity🔐, sketching✏️, storytelling🎭, and astronomy🚀!
+        I stay ahead of the curve, tackling challenges with enthusiasm and creativity to deliver top-notch solutions for clients and users alike.<br/>
         From building software applications to exploring the mysteries of space, 
         I'm dedicated to delivering high-quality solutions that meet the needs of clients and end-users.<br/>
         I am also an open-source enthusiast. Besides that, I love sketching and teaching. <br/><br/>
