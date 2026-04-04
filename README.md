@@ -17,16 +17,6 @@
 [![Email](https://img.shields.io/badge/email-work.iamvs2002@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:work.iamvs2002@gmail.com)
 
 <br/>
-
-<p>
-  <a href="https://useneedle.net/" title="Needle"><img src="https://useneedle.net/logo-light-56w.webp" height="56" width="56" alt="Needle"/></a>
-  &nbsp;&nbsp;
-  <a href="https://moveonfromyourex.com/" title="MoveOnFromYourEx"><img src="https://moveonfromyourex.com/logo48.webp" height="48" width="48" alt="MoveOnFromYourEx"/></a>
-  &nbsp;&nbsp;
-  <a href="https://url2mockup.com/" title="URL2Mockup"><img src="https://url2mockup.com/logo.png" width="120" height="48" alt="URL2Mockup"/></a>
-</p>
-<sub><a href="https://useneedle.net/">Needle</a> · <a href="https://moveonfromyourex.com/">MoveOnFromYourEx</a> · <a href="https://url2mockup.com/">URL2Mockup</a></sub>
-
 </div>
 
 <br/>
