@@ -13,7 +13,7 @@
 <br/>
 
 [![Visitors](https://komarev.com/ghpvc/?username=iamvs-2002&color=0e75b6&style=flat-square&label=profile+views)](https://github.com/iamvs-2002)
-[![Site](https://img.shields.io/badge/iamvs2002.vercel.app-site-000000?style=flat-square&logo=vercel&logoColor=white)](https://iamvs2002.vercel.app)
+[![Site](https://img.shields.io/badge/site-iamvs--2002.github.io-24292f?style=flat-square&logo=github&logoColor=white)](https://iamvs-2002.github.io/)
 [![Email](https://img.shields.io/badge/email-work.iamvs2002@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:work.iamvs2002@gmail.com)
 
 <br/>
