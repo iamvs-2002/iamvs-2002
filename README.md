@@ -2,7 +2,7 @@
 
 # Vaibhav Singhal
 
-### Founder & CEO - <a href="https://useneedle.net"><b>Needle</b></a> · <a href="https://moveonfromyourex.com/"><b>MoveOnFromYourEx</b></a>
+### Founder & CEO - <a href="https://useneedle.net"><b>Needle</b></a>
 
 Security engineer · Product builder · CS @ <a href="https://lnmiit.ac.in">LNMIIT</a> ’23
 
@@ -57,7 +57,7 @@ Try a free search preview from your site, then search many public communities in
 <table><tr>
 <td width="60">
 <a href="https://moveonfromyourex.com/">
-<img src="https://moveonfromyourex.com/logo-light.png" width="48"/>
+<img src="https://moveonfromyourex.com/logo-dark.png" width="48"/>
 </a>
 </td>
 <td>
