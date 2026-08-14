@@ -57,12 +57,12 @@ Try a free search preview from your site, then search many public communities in
 <table><tr>
 <td width="60">
 <a href="https://moveonfromyourex.com/">
-<img src="https://moveonfromyourex.com/logo48.webp" width="48"/>
+<img src="https://moveonfromyourex.com/logo-light.png" width="48"/>
 </a>
 </td>
 <td>
 
-### <a href="https://moveonfromyourex.com/">MoveOnFromYourEx</a>
+### <a href="https://moveonfromyourex.com/">moveonfromyourex</a>
 
 </td>
 </tr></table>
